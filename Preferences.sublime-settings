@@ -5,5 +5,5 @@
     "ignored_packages": [
         "Vintage"
     ],
-    "word_wrap": "auto"
+    "word_wrap": "no"
 }
